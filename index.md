@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 안녕하세요! BTS봇에 오신 것을 환영합니다.
 
-You can use the [editor on GitHub](https://github.com/jungeunsook/BBTSchat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+동국대학교 교육대학원 교육용 챗봇 실습입니다.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
